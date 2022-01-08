@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: 'Cardo', serif;
+	font-family: 'Helvetica', 'Arial', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -13,20 +13,19 @@ header{
 }
 
 h1, h2{
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Roboto', sans-serif;
+font-family: 'The Nautigal', cursive;
 }
 
-/* header styles */
-
 header h1{
-	color: black;
+	color: red;
 	font-size: 50px;
 }
 
 header img{
-	border-radius: 300px;
-	width: 450px;
-	border: px solid black;
+	border-radius: 170px;
+	width: 300px;
+	border: 8px solid black ;
 }
 
 main {
@@ -41,15 +40,15 @@ main img{
 
 h2{
 	font-size: 35px;
-	color: black;
+	color: darkgoldenrod;
 	margin: 40px 0 10px;
 }
 
 a{
-	color: darkred;
+	color: darkcyan;
 }
 a:hover{
-	color: red;
+	color: lightcoral;
 }
 
 footer{
